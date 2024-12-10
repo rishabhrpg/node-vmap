@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vmap:VMAP xmlns:vmap="http://www.iab.net/videosuite/vmap" version="1.0">
+ <vmap:AdBreak timeOffset="00:45:00.000" breakType="linear" breakId="midroll-3">
+  <vmap:AdSource id="midroll-3-ads" allowMultipleAds="true" followRedirects="true">
+   <vmap:AdTagURI templateType="vast4"><![CDATA[https://pubads.g.doubleclick.net/gampad/ads?slotname=/8372/evod_ttn/movies&sz=640x480&ciu_szs=300x250&cust_params=sample_ar%3Dpremidpostpod&url=https://localhost:8000/video/movie_412047738165&unviewed_position_start=1&output=xml_vast4&impl=s&env=vp&gdfp_req=1&ad_rule=0&cue=2700000&useragent=python-requests/2.26.0,gzip(gfe)&vad_type=linear&vpos=midroll&pod=4&mridx=3&rmridx=4&pmnd=0&pmxd=92000&pmad=-1&max_ad_duration=92000&vrid=1388731&ppid=24060406391607218&sid=260fe07c-867b-4c83-8b1a-5183ad82c592&correlator=819435&kfa=0&omid_p=Google1/h.3.629.1&scor=283326340256359&sdk_apis=2,7,8&wta=0&an=&msid=&hl=en&rdid=**&cmsid=2678800&plcmt=1&ssss=mediatailor&video_doc_id=movie_802618768076&vpa=auto&vpmute=false&afvsz=200x200,250x250,300x250,336x280,450x50,468x60,480x70,728x90&nofb=false&tfcd=0]]></vmap:AdTagURI>
+  </vmap:AdSource>
+ </vmap:AdBreak>
+ <vmap:AdBreak timeOffset="01:00:00.000" breakType="linear" breakId="midroll-4">
+  <vmap:AdSource id="midroll-4-ads" allowMultipleAds="true" followRedirects="true">
+   <vmap:AdTagURI templateType="vast4"><![CDATA[https://pubads.g.doubleclick.net/gampad/ads?slotname=/8372/evod_ttn/movies&sz=640x480&ciu_szs=300x250&cust_params=sample_ar%3Dpremidpostpod&url=https://localhost:8000/video/movie_412047738165&unviewed_position_start=1&output=xml_vast4&impl=s&env=vp&gdfp_req=1&ad_rule=0&cue=3600000&useragent=python-requests/2.26.0,gzip(gfe)&vad_type=linear&vpos=midroll&pod=5&mridx=4&rmridx=3&pmnd=0&pmxd=92000&pmad=-1&max_ad_duration=92000&vrid=1388731&ppid=24060406391607218&sid=260fe07c-867b-4c83-8b1a-5183ad82c592&correlator=819435&kfa=0&omid_p=Google1/h.3.629.1&scor=283326340256359&sdk_apis=2,7,8&wta=0&an=&msid=&hl=en&rdid=**&cmsid=2678800&plcmt=1&ssss=mediatailor&video_doc_id=movie_802618768076&vpa=auto&vpmute=false&afvsz=200x200,250x250,300x250,336x280,450x50,468x60,480x70,728x90&nofb=false&tfcd=0]]></vmap:AdTagURI>
+  </vmap:AdSource>
+ </vmap:AdBreak>
+ <vmap:AdBreak timeOffset="01:15:00.000" breakType="linear" breakId="midroll-5">
+  <vmap:AdSource id="midroll-5-ads" allowMultipleAds="true" followRedirects="true">
+   <vmap:AdTagURI templateType="vast4"><![CDATA[https://pubads.g.doubleclick.net/gampad/ads?slotname=/8372/evod_ttn/movies&sz=640x480&ciu_szs=300x250&cust_params=sample_ar%3Dpremidpostpod&url=https://localhost:8000/video/movie_412047738165&unviewed_position_start=1&output=xml_vast4&impl=s&env=vp&gdfp_req=1&ad_rule=0&cue=4500000&useragent=python-requests/2.26.0,gzip(gfe)&vad_type=linear&vpos=midroll&pod=6&mridx=5&rmridx=2&pmnd=0&pmxd=92000&pmad=-1&max_ad_duration=92000&vrid=1388731&ppid=24060406391607218&sid=260fe07c-867b-4c83-8b1a-5183ad82c592&correlator=819435&kfa=0&omid_p=Google1/h.3.629.1&scor=283326340256359&sdk_apis=2,7,8&wta=0&an=&msid=&hl=en&rdid=**&cmsid=2678800&plcmt=1&ssss=mediatailor&video_doc_id=movie_802618768076&vpa=auto&vpmute=false&afvsz=200x200,250x250,300x250,336x280,450x50,468x60,480x70,728x90&nofb=false&tfcd=0]]></vmap:AdTagURI>
+  </vmap:AdSource>
+ </vmap:AdBreak>
+ <vmap:AdBreak timeOffset="01:30:00.000" breakType="linear" breakId="midroll-6">
+  <vmap:AdSource id="midroll-6-ads" allowMultipleAds="true" followRedirects="true">
+   <vmap:AdTagURI templateType="vast4"><![CDATA[https://pubads.g.doubleclick.net/gampad/ads?slotname=/8372/evod_ttn/movies&sz=640x480&ciu_szs=300x250&cust_params=sample_ar%3Dpremidpostpod&url=https://localhost:8000/video/movie_412047738165&unviewed_position_start=1&output=xml_vast4&impl=s&env=vp&gdfp_req=1&ad_rule=0&cue=5400000&useragent=python-requests/2.26.0,gzip(gfe)&vad_type=linear&vpos=midroll&pod=7&mridx=6&rmridx=1&pmnd=0&pmxd=92000&pmad=-1&max_ad_duration=92000&vrid=1388731&ppid=24060406391607218&sid=260fe07c-867b-4c83-8b1a-5183ad82c592&correlator=819435&kfa=0&omid_p=Google1/h.3.629.1&scor=283326340256359&sdk_apis=2,7,8&wta=0&an=&msid=&hl=en&rdid=**&cmsid=2678800&plcmt=1&ssss=mediatailor&video_doc_id=movie_802618768076&vpa=auto&vpmute=false&afvsz=200x200,250x250,300x250,336x280,450x50,468x60,480x70,728x90&nofb=false&tfcd=0]]></vmap:AdTagURI>
+  </vmap:AdSource>
+ </vmap:AdBreak>
+</vmap:VMAP>
